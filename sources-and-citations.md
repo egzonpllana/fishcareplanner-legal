@@ -2,44 +2,29 @@
 
 **Last updated: March 24, 2026**
 
-Fish Care Planner provides AI-generated care plans, feeding schedules, species-specific profiles, and food safety information. This page explains how that content is produced and the knowledge domains it draws from.
-
 ## How Content Is Generated
 
-All feeding recommendations, care schedules, species profiles, water parameter guidelines, and food safety classifications in Fish Care Planner are generated using artificial intelligence (large language models). The AI synthesizes information from established aquatic and veterinary science to produce personalized suggestions based on the fish profile you provide.
+All feeding recommendations, care schedules, species profiles, water parameter guidelines, and food safety classifications in Fish Care Planner are generated entirely by artificial intelligence (large language models).
 
-No content in this app is copied directly from any single publication. The AI produces original text and calculations informed by the general body of knowledge described below.
+The AI produces suggestions based on general knowledge about fish nutrition, species-specific care, water quality, and food safety. No content in this app is copied from, verified against, or endorsed by any specific publication, organization, or professional body.
 
-## Knowledge Domains & Reference Standards
+## Nature of the Content
 
-The AI-generated content in this app is grounded in the following widely recognized bodies of aquatic and veterinary science:
+- All content is **AI-generated** and provided **as-is** for informational purposes only.
+- The app does not claim to represent the views, guidelines, or recommendations of any veterinary organization, regulatory body, or scientific institution.
+- AI-generated content may be inaccurate, incomplete, outdated, or unsuitable for your fish's specific needs.
+- Feeding schedules, portion sizes, water parameter targets, and food safety classifications are algorithmic estimates — not laboratory-verified or professionally reviewed values.
 
-### Fish Nutrition & Feeding
-- **National Research Council (NRC)** — *Nutrient Requirements of Fish and Shrimp* (2011). The primary scientific reference for fish dietary requirements, nutrient composition, and feeding rates across species.
+## Not a Substitute for Professional Advice
 
-### Species-Specific Care
-- **FishBase (fishbase.org)** — Comprehensive species database covering habitat, diet, water parameters, and care requirements for thousands of freshwater and marine species.
-- **Veterinary species care literature** — Peer-reviewed publications and aquaculture research regarding species-specific health, dietary needs, water quality requirements, and common ailments.
+The information in this app is not veterinary advice, diagnosis, or treatment. It should never be used as a replacement for consultation with a licensed aquatic veterinarian.
 
-### Food Safety & Toxicology
-- **Aquatic veterinary toxicology references** — Established knowledge on foods, substances, and water contaminants harmful to ornamental fish species.
-- **Aquaculture feed safety standards** — Industry guidelines for safe feed ingredients and preparation methods.
+Before making any changes to your fish's diet, water parameters, or care routine — especially if your fish shows signs of illness or stress — always consult a licensed aquatic veterinarian.
 
-### Water Quality & Husbandry
-- **American Fisheries Society (AFS)** — Standards and guidelines for water quality parameters, fish health management, and aquatic husbandry best practices.
-- **Ornamental fish care literature** — Established hobbyist and veterinary resources covering tank maintenance, water chemistry, and environmental enrichment.
+## Your Responsibility
 
-## Important Limitations
-
-- The AI may produce information that is inaccurate, incomplete, or outdated.
-- AI-generated recommendations are general in nature and cannot replace an examination by a licensed aquatic veterinarian who knows your fish's individual health history.
-- Aquatic science evolves. References listed above represent established knowledge as of the AI's training data, which may not reflect the most recent findings.
-- Feeding schedules, portion sizes, and water parameter targets are algorithmic estimates, not laboratory-verified values for any specific fish or environment.
-
-## Always Consult Your Aquatic Veterinarian
-
-Before making any changes to your fish's diet, water parameters, or care routine — especially if your fish shows signs of illness or stress — consult a licensed aquatic veterinarian.
+You assume full responsibility for evaluating, verifying, and deciding whether to act on any AI-generated content. The app provides suggestions for your consideration only — it does not make decisions on your behalf.
 
 ## Contact
 
-For questions about the sources behind our content, [open an issue on GitHub](https://github.com/egzonpllana/fishcareplanner-legal/issues).
+For questions about this page, [open an issue on GitHub](https://github.com/egzonpllana/fishcareplanner-legal/issues).
