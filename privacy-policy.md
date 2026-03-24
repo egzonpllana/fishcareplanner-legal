@@ -32,4 +32,4 @@ Fish Care Planner does not knowingly collect information from children under 13.
 
 ## 7. Contact Us
 
-If you have questions about this Privacy Policy, please contact us at support@fishcareplanner.app.
+If you have questions about this Privacy Policy, [open an issue on GitHub](https://github.com/egzonpllana/fishcareplanner-legal/issues).

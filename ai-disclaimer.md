@@ -34,4 +34,4 @@ By continuing to use Fish Care Planner, you confirm that you have read, understo
 
 ## 8. Contact
 
-For questions about this AI Disclaimer, contact us at support@fishcareplanner.app.
+For questions about this AI Disclaimer, [open an issue on GitHub](https://github.com/egzonpllana/fishcareplanner-legal/issues).

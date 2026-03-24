@@ -34,4 +34,4 @@ We reserve the right to update these terms at any time. Continued use of the app
 
 ## 8. Contact
 
-For questions about these Terms of Service, contact us at support@fishcareplanner.app.
+For questions about these Terms of Service, [open an issue on GitHub](https://github.com/egzonpllana/fishcareplanner-legal/issues).

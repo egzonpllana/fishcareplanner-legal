@@ -42,4 +42,4 @@ Before making any changes to your fish's diet, water parameters, or care routine
 
 ## Contact
 
-For questions about the sources behind our content, contact us at support@fishcareplanner.app.
+For questions about the sources behind our content, [open an issue on GitHub](https://github.com/egzonpllana/fishcareplanner-legal/issues).
